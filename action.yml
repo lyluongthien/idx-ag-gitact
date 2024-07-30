@@ -1,4 +1,4 @@
-name: 'README Generator'
+name: 'README Markdown Gener'
 description: 'Generates a README for a folder when you tag an issue as AutoReadme'
 inputs:
   githubToken:
